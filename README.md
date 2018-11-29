@@ -2,4 +2,5 @@
 Score app made with kotlin 
 
 <br><br>
-![screen shot 2018-11-29 at 12 08 36 pm](https://user-images.githubusercontent.com/4128893/49242402-41f32100-f3d0-11e8-8563-b9ebc2f1de0b.png)
+
+![kotlinscore](https://user-images.githubusercontent.com/4128893/49242822-54ba2580-f3d1-11e8-8d0f-93ffc480913f.gif)
